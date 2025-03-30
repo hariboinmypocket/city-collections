@@ -1,0 +1,16 @@
+/* External stylesheet for CITY COLLECTION */
+
+/* General */
+html {
+	scroll-behavior: smooth;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+@font-face {
+	font-family: 'Bookletter';
+	src: url('https://github.com/hariboinmypocket/theleagueof-goudy-bookletter-1911/blob/master/webfonts/goudy_bookletter_1911-webfont.woff');
+}
