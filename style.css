@@ -18,3 +18,21 @@ html {
 a:link {
 	color: #ffffff;
 	text-decoration: none;
+	
+/* Index page */
+
+#nyc.hover, #nyc.active {
+	color: #affffb;
+}
+
+#la.hover, #la.active {
+	color: #faffaf;
+}
+
+#shanghai.hover, #shanghai.active {
+	color: #bfffaf;
+}
+
+#tokyo.hover, #tokyo.active {
+	color: #ddafff;
+}
