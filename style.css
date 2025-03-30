@@ -14,3 +14,7 @@ html {
 	font-family: 'Bookletter';
 	src: url('https://github.com/hariboinmypocket/theleagueof-goudy-bookletter-1911/blob/master/webfonts/goudy_bookletter_1911-webfont.woff');
 }
+
+a:link {
+	color: #ffffff;
+	text-decoration: none;
