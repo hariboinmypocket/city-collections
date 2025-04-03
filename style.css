@@ -21,18 +21,18 @@ a:link {
 	
 /* Index page */
 
-#nyc.hover, #nyc.active {
+a.nyc:hover, a.nyc:active {
 	color: #affffb;
 }
 
-#la.hover, #la.active {
+a.la:hover, a.la:active {
 	color: #faffaf;
 }
 
-#shanghai.hover, #shanghai.active {
+a.shanghai:hover, a.shanghai:active {
 	color: #bfffaf;
 }
 
-#tokyo.hover, #tokyo.active {
+a.tokyo:hover, a.tokyo:active {
 	color: #ddafff;
 }
